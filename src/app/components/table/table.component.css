@@ -1,0 +1,30 @@
+* {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            font-family: "Poppins", sans-serif;
+  }
+.img-fluid{
+    height:11rem;
+}
+
+h1{
+    font-size: 45px;
+    font-weight: 900;
+    line-height: 1.2;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+.table .thead-light th {
+    background-image:linear-gradient(#46b6ee,#0093df);
+    border-color:#8690a0 !important;
+}
+img{
+    border-radius: 50%;
+}
+th{
+    font-weight: bold;
+}
+tr:hover{
+    background-image:linear-gradient(#46b6ee,#0093df);
+}
+
